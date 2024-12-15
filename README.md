@@ -4,3 +4,6 @@
 目前支持时代奥视OSEE、vMix切换台，后续将增加BMD ATEM切换台支持
 
 OmniTally Website http://omni.aidns.org/OmniTally/
+
+B站视频链接 https://www.bilibili.com/video/BV1jYqdYJEvC
+YouTube视频链接 https://www.youtube.com/watch?v=d0863qaj74I
