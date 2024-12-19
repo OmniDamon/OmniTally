@@ -12,7 +12,7 @@
 
 通过ESP8266，Arduino开发了一个支持OSEE GoStream、vMix、BlackMagicDesign ATEM切换台的Tally灯，支持硬件Tally灯和WebTally灯模式
 
-9元3分钟做一个支持OSEE vMix BMD的开源Tally灯,US$1.99,Tally Light,WebTally,Osee GoStream,vMix,BMD ATEM
+9元3分钟做一个支持OSEE vMix BMD的开源Tally灯,US$1.99,Tally Light,WebTally,Osee GoStream,vMix,BMD ATEM,Video switcher
 
 OmniTally Website http://omni.aidns.org/OmniTally/
 
