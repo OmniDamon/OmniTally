@@ -16,13 +16,17 @@
 
 OmniTally Website http://omni.aidns.org/OmniTally/
 
+
 【1.0介绍】(必看)
+
 B站视频链接 https://www.bilibili.com/video/BV1jYqdYJEvC
 
 YouTube视频链接 https://www.youtube.com/watch?v=d0863qaj74I
 
 
+
 【2.0介绍】(建议先看1.0版本视频)
+
 B站视频链接 https://www.bilibili.com/video/BV1FQ7pzZEaV/
 
 YouTube视频链接 https://www.youtube.com/watch?v=QglbKZ4ogHQ
